@@ -1,6 +1,9 @@
 # Alexa Rant
 Alexa fetches a random rant from <https://devrant.com/feed> at your request. This was a simple project to play around with Alexa Skills Kit.
 
+## Download
+* The Alexa Skill is still in review, I'll update this once I hear back from them
+
 ## Available commands
 After opening `rant` application on Alexa you can say the following commands:
 * `rant`
