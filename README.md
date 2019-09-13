@@ -12,4 +12,4 @@ After opening `rant` application on Alexa you can say the following commands:
 * `are there any rants`
 * `what does the dev say`
 
-There's a very useful talk given by Andrea Muttoni going through the process of setting up your Alexa Skill if you are thinking of making your own: https://www.youtube.com/watch?v=BB3wwxgqPOU&t=919s
+There's a very useful talk given by Andrea Muttoni going through the process of setting up your Alexa Skill if you are thinking of making your own: https://www.youtube.com/watch?v=BB3wwxgqPOU&t
